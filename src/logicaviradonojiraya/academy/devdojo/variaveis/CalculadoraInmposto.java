@@ -1,4 +1,4 @@
-package logicaviradonojiraya;
+package logicaviradonojiraya.academy.devdojo.variaveis;
 
 /**
  *
