@@ -1,4 +1,4 @@
-package logicaviradonojiraya.academy.devdojo.arrays;
+package logicaviradonojiraya.academy.devdojo.arrays.unidimensional;
 
 import java.util.Scanner;
 
